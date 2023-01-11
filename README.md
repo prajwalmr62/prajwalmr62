@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nagendra Prajwal! (@prajwalmr62).
 - 👀 I’m interested in web development, app development, PWA etc.
 - 🌱 I’m currently learning Nx Tools.
-- 💞️ I’m looking to collaborate on nothing yet.
+- 💞️ I’m not looking to collaborate on anything yet.
 - 📫 Reach out to me here.
 
 <!---
